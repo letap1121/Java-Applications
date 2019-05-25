@@ -1,2 +1,2 @@
 # Java-Applications
-This repository contains working code samples which demonstrates Java fluency. 
+This repository contains working code of advnaced Java applicaitons for commercial purposes.
