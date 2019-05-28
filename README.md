@@ -49,7 +49,7 @@ i   3     8     1     4     1     8     3     4     6     cs  t
 The sum of the digits is 38 and 38 % 10 is 8, so the  sum is 10 - 8 = 2. The initial and terminal frame bars are always |.
 
 # Transaction Manager Application
-Implements and test the base class Transaction, and the derived classes GoldTransaction, and LumberTransaction.
+Implements and tests the base class Transaction, and the derived classes GoldTransaction, and LumberTransaction.
 
 The Transaction class implements the PurchaseReceipt interface, which inherits from the Comparable interface. This means that in addition to supplying the methods getId, getBuyer, getSeller, and getAmount, a compareTo method is also supplied. It returns 1 if this._id > other._id, it should return -1 if this._id > other._id; or return 0 if this._id == other._id.
 
