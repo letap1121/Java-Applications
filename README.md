@@ -61,7 +61,7 @@ The Transaction and TransactionManager classes implement the Serializable interf
 
 Wrote a traditional test class Test3 that tests the TransactionManager class.
 
-# Transaction Checker For Transaction Manager (Observer Pattern
+# Transaction Checker For Transaction Manager (Observer Pattern)
 
 Implements and test the base class Transaction, and the derived classes GoldTransaction, and LumberTransaction.
 
